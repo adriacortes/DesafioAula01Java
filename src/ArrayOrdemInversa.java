@@ -12,7 +12,6 @@ public class ArrayOrdemInversa {
            i++;
        }
 
-
        System.out.println("ORDEM INVERSA");
        for (int count = (vetor.length - 1); count >= 0 ; count --){
            System.out.print(vetor[count] + " ");
