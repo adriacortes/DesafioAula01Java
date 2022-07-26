@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /* FAÇA UM PROGRAMA QUE LEIA UM VETOR DE 6 CARACTERES E DIGA QUANTAS
 * CONSOANTES FORAM LIDAS! IMPRIMA AS CONSOANTES. */
-public class Consoantes {
+public class QuantidadeConsoantes {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
 

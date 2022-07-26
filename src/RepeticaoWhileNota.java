@@ -17,7 +17,7 @@ public class RepeticaoWhileNota {
             nota = entrada.nextInt();
         }
 
-        while (true)
+        while (true) // Infinito ate satisfazer o break!
         {
             System.out.println("Digite o nome:");
             nome = entrada.next();
